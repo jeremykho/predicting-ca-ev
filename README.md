@@ -1,6 +1,6 @@
 ## Statistical Models to Predict Electric Vehicle Ownership
 
-<i> Note: File formats and structure based on submission requirements </i>
+<i> Note: File formats and structure based on submission requirements. </i>
 
 ### Abstract
 
